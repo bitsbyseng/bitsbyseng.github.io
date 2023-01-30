@@ -106,15 +106,14 @@ analytics:
 author:
   name             : "Seng Min Youn (윤성민)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A repository of all my projects and learnings"
-  location         : "Seoul"
-  email            : "beetsbyseng@gmail.com"
+  bio              : "💻A repository of all my projects and learnings"
+  location         : "Seoul, :kr:"
   youtube          : "https://www.youtube.com/channel/UCJgdtZBN4y_g7WpdUlowMWA"
-  github           : "https://github.com/bitsbyseng"
+  stacks           : "![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "beetsbyseng@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/bitsbyseng"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,15 +133,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCJgdtZBN4y_g7WpdUlowMWA"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/bitsbyseng"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
