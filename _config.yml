@@ -106,10 +106,10 @@ analytics:
 author:
   name             : "Seng Min Youn (윤성민)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "💻A repository of all my projects and learnings"
-  location         : "Seoul, :kr:"
+  bio              : "💻 all my projects and learnings"
+  location         : "Seoul" :kr:
   youtube          : "https://www.youtube.com/channel/UCJgdtZBN4y_g7WpdUlowMWA"
-  stacks           : "![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
