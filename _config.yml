@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "BitsbySeng"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "The notes of an aspiring data scientist" 
 name                     : "Seng Min Youn"
 description              : "A repository for Seng's projects and learnings"
 url                      : "https://bitsbyseng.github.io"
@@ -108,7 +108,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A repository of all my projects and learnings"
   location         : "Seoul"
-  email            : 
+  email            : "beetsbyseng@gmail.com"
+  youtube          : "https://www.youtube.com/channel/UCJgdtZBN4y_g7WpdUlowMWA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
