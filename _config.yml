@@ -110,6 +110,7 @@ author:
   location         : "Seoul"
   email            : "beetsbyseng@gmail.com"
   youtube          : "https://www.youtube.com/channel/UCJgdtZBN4y_g7WpdUlowMWA"
+  github           : "https://github.com/bitsbyseng"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
