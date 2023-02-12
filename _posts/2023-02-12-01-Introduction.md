@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "01 Introduction to Algorithms"
-categories: basic algorithms
+categories: algorithms(basic)
 tag: [python, algorithm]
 ---
 
