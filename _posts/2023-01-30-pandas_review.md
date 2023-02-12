@@ -2,7 +2,7 @@
 layout: single
 title:  "Pandas Review"
 categories: pandas
-tag: [python]
+tag: python
 ---
 
 ## Pandas Review 
