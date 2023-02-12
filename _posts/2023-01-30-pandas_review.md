@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "First Post"
+title:  "Pandas Review"
 categories: pandas
 tag: [python]
 ---
