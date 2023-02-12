@@ -1,4 +1,9 @@
-# Introduction to Algorithms
+---
+layout: single
+title:  "01 Introduction to Algorithms"
+categories: basic algorithms
+tag: [python, algorithm]
+---
 
 ## Time Complexity (The Big O Notation)
 We can predict how long it will take in the worst case scenario. 
