@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "First Post"
+categories: pandas
+tag: [python]
+---
+
 ## Pandas Review 
 
 #### Pandas is an open source library built on top of the Numpy library
