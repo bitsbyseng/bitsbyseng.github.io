@@ -1,5 +1,9 @@
-## Sieve of Eratosthenes 
-
+---
+layout: single
+title:  "02 Sieve of Eratosthenes"
+categories: algorithms(basic)
+tag: [python, algorithm]
+---
 
 ```python
 def prime_list(n):
